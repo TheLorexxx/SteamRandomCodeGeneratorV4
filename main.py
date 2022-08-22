@@ -381,7 +381,7 @@ print(steamkod_g1+steamkod_g2+steamkod_g3+steamkod_g4+steamkod_g5+steamkod_gbosl
 print(steamkod_h1+steamkod_h2+steamkod_h3+steamkod_h4+steamkod_h5+steamkod_hbosluk+steamkod_h6+steamkod_h7+steamkod_h8+steamkod_h9+steamkod_hbosluk2+steamkod_h10+steamkod_h11+steamkod_h12+steamkod_h13)
 
 print(steamkod_i1+steamkod_i2+steamkod_i3+steamkod_i4+steamkod_i5+steamkod_ibosluk+steamkod_i6+steamkod_i7+steamkod_i8+steamkod_i9+steamkod_ibosluk2+steamkod_i10+steamkod_i11+steamkod_i12+steamkod_i13)
-print("Bu Ekran 100 saniye icinde kapanacak)
+print("Bu Ekran 100 saniye icinde kapanacak")
 time.sleep(100)
 if lorex == '2':
 print("\n                                  Coded By Lorex \n\n                           >> lorexofficiall.glitch.me <<")
@@ -389,4 +389,3 @@ print("\n                                  Coded By Lorex \n\n                  
 if lorex == '3':
 
  time.sleep(1)
-
