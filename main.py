@@ -350,16 +350,12 @@ lorex = input("[1] - Programi Baslat \n[2] - Hakkinda \n[3] - Cikis")
 if lorex == '1':
 print("Steam Kod Olusturuluyor.")
 time.sleep(1)
-os.system("cls")
 print("Steam Kod Olusturuluyor..")
 time.sleep(1)
-os.system("cls")
 print("Steam Kod Olusturuluyor...")
 time.sleep(1)
-os.system("cls")
 print("Steam Kod Olusturuldu!")
 time.sleep(1)
-os.system("cls")
 
 print(steamkod1+steamkod2+steamkod3+steamkod4+steamkod5+steamkodbosluk+steamkod6+steamkod7+steamkod8+steamkod9+steamkodbosluk2+steamkod10+steamkod11+steamkod12+steamkod13)
 
